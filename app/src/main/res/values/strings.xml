@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViesureArticles</string>
+    <string name="error_network_cached">Something went wrong, you might not see the most recent articles</string>
+    <string name="error_netwrok_no_cache">Something went wrong, check your connection and please try again</string>
+    <string name="error_http_no_cache">Something went wrong on our side, please try again</string>
+    <string name="error_http_cached">Something went wrong on our side, you might not see the most recent articles</string>
+    <string name="error_http_401">Looks like you are not authorized to view the articles</string>
+    <string name="error_http_404">We could not find the articles</string>
+    <string name="error_http_generic">Sorry, something went wrong</string>
+    <string name="author">Author:</string>
+    <string name="error_detail_not_found">We could not retrieve information for this article</string>
+
+</resources>
